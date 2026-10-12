@@ -1,0 +1,4 @@
+Django==5.2.18
+openai==2.54.0
+python-dotenv>=1.0,<2
+gunicorn>=23,<24; platform_system != "Windows"

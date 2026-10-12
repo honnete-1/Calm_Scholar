@@ -1,0 +1,6 @@
+{
+  "name": "calm-scholar-ui-tests",
+  "private": true,
+  "scripts": {"test": "node tests/frontend_smoke.cjs"},
+  "devDependencies": {"jsdom": "^27.0.0"}
+}
